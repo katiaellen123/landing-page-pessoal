@@ -1,0 +1,33 @@
+body{
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+header{
+    background-color: rgb(170, 155, 182);
+    padding: 54px;
+    text-align: center;
+    color: rgb(24, 23, 22);
+}
+header img {
+    height: 250px;
+    border-radius: 45%;
+}
+
+
+section{
+    background-color: rgb(93, 91, 95);
+    color: rgb(10, 10, 9);
+    margin: 50px;
+    padding: 60px;
+    border-radius: 25px
+}
+footer{
+    background-color: rgb(99, 93, 104);
+    color: rgb(22, 21, 20);
+    text-align: center;
+    padding: 45px
+
+}
+
